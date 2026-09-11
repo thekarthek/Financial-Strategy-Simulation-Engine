@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+user_data/config.json
+user_data/data/
+user_data/logs/
+user_data/backtest_results/
+user_data/hyperopt_results/
+.pytest_cache/
+.mypy_cache/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+.env
